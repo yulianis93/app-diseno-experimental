@@ -2,7 +2,7 @@
 import pandas as pd
 import streamlit as st
 
-AUTOR = yulianis celada 
+AUTOR = "yulianis celada"
 
 st.set_page_config(page_title="App de Diseño Experimental", page_icon="🌱", layout="wide")
 
